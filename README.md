@@ -12,3 +12,7 @@ All the plugins and or themes that i present to you are [privacy focussed, secur
 
 **Example:**
 <img width="1920" height="933" alt="Screenshot 2025-11-01 at 01-13-15 Oops — Maintenance" src="https://github.com/user-attachments/assets/3c8ec453-b0de-4981-9295-437541f9dec9" />
+
+## 🛡 Security, Privacy & Usage Policy
+
+To read more about my Security, privacy and Usage Policy,<br>
